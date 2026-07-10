@@ -149,3 +149,4 @@ SMOKE-MARKER-4.1: copilotkit-only change (run3 1783686207)
 SMOKE-MARKER-4.2: coordinated change (run3)
 SMOKE-MARKER-6.2: extra unpushed change
 SMOKE-MARKER-8.1: reviewer fixup
+LOCAL-CONFLICT-4.1: local edited this tail line
