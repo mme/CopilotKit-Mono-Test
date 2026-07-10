@@ -153,3 +153,5 @@ To get started with CopilotKit, please check out the [documentation](https://doc
 <!-- SMOKE-MARKER-62: status check 20260710 -->
 
 <!-- SMOKE-MARKER-81: reviewer fixup -->
+
+<!-- SMOKE-CONFLICT: local mono version -->
