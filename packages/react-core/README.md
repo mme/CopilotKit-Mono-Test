@@ -145,8 +145,12 @@ const response = await ChatOpenAI({ model: "gpt-4o" }).invoke(
 ## Documentation
 
 To get started with CopilotKit, please check out the [documentation](https://docs.copilotkit.ai).
+<<<<<<< HEAD
 SMOKE-MARKER-4.1: copilotkit-only change (run3 1783686207)
 SMOKE-MARKER-4.2: coordinated change (run3)
 SMOKE-MARKER-6.2: extra unpushed change
 SMOKE-MARKER-8.1: reviewer fixup
 LOCAL-CONFLICT-4.1: local edited this tail line
+=======
+UPSTREAM-CONFLICT-4.1: upstream edited this tail line
+>>>>>>> 0b8375be50e1683abb3cc6981a86a535207eca72
