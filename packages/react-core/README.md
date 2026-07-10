@@ -145,3 +145,5 @@ const response = await ChatOpenAI({ model: "gpt-4o" }).invoke(
 ## Documentation
 
 To get started with CopilotKit, please check out the [documentation](https://docs.copilotkit.ai).
+
+<!-- SMOKE-CONFLICT: upstream version -->
