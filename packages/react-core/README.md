@@ -147,3 +147,5 @@ const response = await ChatOpenAI({ model: "gpt-4o" }).invoke(
 To get started with CopilotKit, please check out the [documentation](https://docs.copilotkit.ai).
 
 <!-- SMOKE-MARKER-41: copilotkit-only change 20260710-0929 -->
+
+<!-- SMOKE-MARKER-42-CK: coordinated change 20260710-0929 -->
