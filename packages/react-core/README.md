@@ -149,3 +149,5 @@ To get started with CopilotKit, please check out the [documentation](https://doc
 <!-- SMOKE-MARKER-41: copilotkit-only change 20260710-0929 -->
 
 <!-- SMOKE-MARKER-42-CK: coordinated change 20260710-0929 -->
+
+<!-- SMOKE-MARKER-62: status check 20260710 -->
